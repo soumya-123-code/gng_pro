@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3ab7f51.chunk.css",
+    "main.js": "/static/js/main.b818e553.chunk.js",
+    "main.js.map": "/static/js/main.b818e553.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9ef4c40e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9ef4c40e.js.map",
+    "static/css/2.fe31c789.chunk.css": "/static/css/2.fe31c789.chunk.css",
+    "static/js/2.3b28a182.chunk.js": "/static/js/2.3b28a182.chunk.js",
+    "static/js/2.3b28a182.chunk.js.map": "/static/js/2.3b28a182.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4e47f919cc61ff5d511f954d96521f35.js": "/precache-manifest.4e47f919cc61ff5d511f954d96521f35.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.fe31c789.chunk.css.map": "/static/css/2.fe31c789.chunk.css.map",
+    "static/css/main.b3ab7f51.chunk.css.map": "/static/css/main.b3ab7f51.chunk.css.map",
+    "static/js/2.3b28a182.chunk.js.LICENSE.txt": "/static/js/2.3b28a182.chunk.js.LICENSE.txt",
+    "static/media/dslr.jpg": "/static/media/dslr.59731bae.jpg",
+    "static/media/gnglogo.svg": "/static/media/gnglogo.b224c0d3.svg",
+    "static/media/iphone.jpg": "/static/media/iphone.8d318e4a.jpg",
+    "static/media/microphone.jpg": "/static/media/microphone.e7bdef88.jpg",
+    "static/media/perfume.jpg": "/static/media/perfume.92ef6ab7.jpg",
+    "static/media/rings.jpg": "/static/media/rings.986af371.jpg",
+    "static/media/shoes.jpg": "/static/media/shoes.f30fe0b2.jpg",
+    "static/media/watch.jpg": "/static/media/watch.b4e58e91.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ef4c40e.js",
+    "static/css/2.fe31c789.chunk.css",
+    "static/js/2.3b28a182.chunk.js",
+    "static/css/main.b3ab7f51.chunk.css",
+    "static/js/main.b818e553.chunk.js"
+  ]
+}
